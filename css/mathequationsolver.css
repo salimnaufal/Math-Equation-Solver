@@ -1,0 +1,13 @@
+#signature-pad {
+    border: 1px solid black;
+}
+
+#signature-pad:hover {
+    cursor: url('https://cdn1.iconfinder.com/data/icons/material-core/20/pen-512.png'), auto;
+}
+
+#image{
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+}
